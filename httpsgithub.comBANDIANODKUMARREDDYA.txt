@@ -1,2 +1,11 @@
 https://github.com/BANDIANODKUMARREDDY/AshokIT.git
 Anodreddy
+git pull
+✅ What it does:
+git pull is a combination of two commands:
+
+sql
+Copy
+Edit
+git fetch + git merge
+It fetches changes from the remote and automatically merges them into your current branch.
